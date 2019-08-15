@@ -16,4 +16,4 @@ if c>1:
     l+=str(c)+"*"+su[-1]
 else:
     l+=su[-1]
-print(l)
+print(" "+l)
